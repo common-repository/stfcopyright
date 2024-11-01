@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: stfCopyright\n"
+"POT-Creation-Date: 2017-11-25 20:28+0900\n"
+"PO-Revision-Date: 2017-11-25 21:05+0900\n"
+"Last-Translator: k@n <funfun.kan@gmail.com>\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: stfCopyright.php:186
+msgid "It saved"
+msgstr "保存しました"
+
+#: stfCopyright.php:194
+msgid "stfCopyright setting"
+msgstr "stfCopyright設定"
+
+#: stfCopyright.php:197
+msgid "CopyrightMaker"
+msgstr "Copyrightメーカー"
+
+#: stfCopyright.php:199
+msgid ""
+"stfCopyright is a plug-in that automatically generates Copyright to be "
+"displayed on the site footer etc. The update year can also be updated "
+"automatically"
+msgstr ""
+"stfCopyrightはサイトフッターなどに表示するCopyrightを自動生成するプラグイン"
+"です。更新年も自動更新できます"
+
+#: stfCopyright.php:201
+msgid "Please paste short code below on WordPress theme (footer.php etc.). "
+msgstr ""
+"以下のショートコードをWordPressのテーマ（footer.phpなど）に貼り付けてくださ"
+"い "
+
+#: stfCopyright.php:207
+msgid "Copyright display setting"
+msgstr "著作権表示設定"
+
+#: stfCopyright.php:213
+msgid "Name of copyright owner"
+msgstr "著作権所有者の名前"
+
+#: stfCopyright.php:220
+msgid "Copyright Issued Year"
+msgstr "著作権発行年"
+
+#: stfCopyright.php:228 stfCopyright.php:231
+msgid "Update year auto update"
+msgstr "更新年自動更新"
+
+#: stfCopyright.php:233
+msgid "Automatically renew the copyright renewal year at the New Year (1/1)."
+msgstr "正月（1/1）に著作権再生年を自動的に更新します。"
+
+#: stfCopyright.php:240
+msgid "Copyright renewal year (manual)"
+msgstr "著作権更新年（マニュアル）"
+
+#: stfCopyright.php:251
+msgid "Copyrights format"
+msgstr "著作権 表示形式"
+
+#: stfCopyright.php:255
+msgid "Date format"
+msgstr "日付フォーマット"
+
+#: stfCopyright.php:258 stfCopyright.php:262
+msgid "(Copyright Issuing Year - Updated Year)"
+msgstr "(著作権発行年度-更新年度)"
+
+#: stfCopyright.php:265
+msgid "(Update year)"
+msgstr "(更新年度)"
+
+#: stfCopyright.php:268
+msgid "(Copyright Issuing Year)"
+msgstr "(著作権発行年度)"
+
+#: stfCopyright.php:270 stfCopyright.php:271
+msgid "Free entry of Copyright"
+msgstr "Copyrightの自由入力"
+
+#: stfCopyright.php:278
+msgid "Short code"
+msgstr "ショートコード"

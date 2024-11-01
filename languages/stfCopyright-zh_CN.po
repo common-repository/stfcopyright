@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: stfCopyright\n"
+"POT-Creation-Date: 2017-11-25 20:40+0900\n"
+"PO-Revision-Date: 2017-11-25 21:06+0900\n"
+"Last-Translator: k@n <funfun.kan@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: stfCopyright.php:186
+msgid "It saved"
+msgstr ""
+
+#: stfCopyright.php:194
+msgid "stfCopyright setting"
+msgstr "stfCopyright设置"
+
+#: stfCopyright.php:197
+msgid "CopyrightMaker"
+msgstr "CopyrightMaker"
+
+#: stfCopyright.php:199
+msgid ""
+"stfCopyright is a plug-in that automatically generates Copyright to be "
+"displayed on the site footer etc. The update year can also be updated "
+"automatically"
+msgstr ""
+"stfCopyright是一个插件，可以自动生成在网站页脚上显示的版权等。更新年份也可"
+"以自动更新"
+
+#: stfCopyright.php:201
+msgid "Please paste short code below on WordPress theme (footer.php etc.). "
+msgstr "请将下面的短代码粘贴到WordPress主题（footer.php等）上。"
+
+#: stfCopyright.php:207
+msgid "Copyright display setting"
+msgstr "版权显示设置"
+
+#: stfCopyright.php:213
+msgid "Name of copyright owner"
+msgstr "版权所有者的名称"
+
+#: stfCopyright.php:220
+msgid "Copyright Issued Year"
+msgstr "版权发布年份"
+
+#: stfCopyright.php:228 stfCopyright.php:231
+msgid "Update year auto update"
+msgstr "更新一年自动更新"
+
+#: stfCopyright.php:233
+msgid "Automatically renew the copyright renewal year at the New Year (1/1)."
+msgstr "在新年（1/1）自动更新版权续期年份。"
+
+#: stfCopyright.php:240
+msgid "Copyright renewal year (manual)"
+msgstr "版权续订年份（手动）"
+
+#: stfCopyright.php:251
+msgid "Copyrights format"
+msgstr "版权格式"
+
+#: stfCopyright.php:255
+msgid "Date format"
+msgstr "日期格式"
+
+#: stfCopyright.php:258 stfCopyright.php:262
+msgid "(Copyright Issuing Year - Updated Year)"
+msgstr "（版权发布年份 - 更新年份）"
+
+#: stfCopyright.php:265
+msgid "(Update year)"
+msgstr "（更新年份）"
+
+#: stfCopyright.php:268
+msgid "(Copyright Issuing Year)"
+msgstr "（版权发行年份）"
+
+#: stfCopyright.php:270 stfCopyright.php:271
+msgid "Free entry of Copyright"
+msgstr "免费进入版权"
+
+#: stfCopyright.php:278
+msgid "Short code"
+msgstr "短代码"
